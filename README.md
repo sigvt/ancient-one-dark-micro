@@ -25,7 +25,7 @@ Inside the editor open the command line by pressing Ctrl + E and type `set color
 ### windows  
 
 Set the environment variable `MICRO_TRUECOLOR` to 1. Restart the Command Prompt to apply the changes.  
-Navigate to the config directory of micro editor (default is `%USERPROFILE\.config\micro`).  
+Navigate to the config directory of micro editor (default is `%USERPROFILE%\.config\micro`).  
 If necessary create the directory `colorschemes` inside the config directory.  
 Copy the file `ancient-one-dark-tc.micro` to `.\colorschemes\`.  
 Inside the editor open the command line by pressing Ctrl + E and type `set colorscheme ancient-one-dark-tc`. press Enter.  
